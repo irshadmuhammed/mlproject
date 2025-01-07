@@ -77,7 +77,7 @@ The **Student Exam Performance Predictor** provides an intuitive web interface f
 
 ## Demo
 Below is a screenshot of the application in action:
-![Screenshot of Student Exam Predictor]("C:\Users\getir\OneDrive\Pictures\Screenshots\Screenshot 2025-01-07 210800.png")
+![Screenshot of Student Exam Predictor](static\image\Screenshot 2025-01-07 210800.png)
 
 ---
 
